@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(SocketProject_client.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  SocketProject_client.cpp
+D:\ProgramProjects\vsc++project\SocketProject\SocketProject\SocketProject\SocketProject\SocketProject_client.cpp(58,39): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\ProgramProjects\vsc++project\SocketProject\SocketProject\SocketProject\SocketProject\SocketProject_client.cpp(42,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\ProgramProjects\vsc++project\SocketProject\SocketProject\SocketProject\SocketProject\SocketProject_client.cpp(16,7): warning C4101: “wVersionRequested”: 未引用的局部变量
+  SocketProject.vcxproj -> D:\ProgramProjects\vsc++project\SocketProject\SocketProject\SocketProject\x64\Debug\SocketProject.exe
